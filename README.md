@@ -1,0 +1,1 @@
+# Alfred-workflow-copy-selected-text-to-TextEdit
